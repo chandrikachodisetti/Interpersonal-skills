@@ -16,9 +16,9 @@
 --> what u should have to enter the IT OR INTERVIEW   DEGREE ,SKILLS,EXPERIENCE WITH OUT DEGREE AND EXPERIENCE we can do but SKILLS ARE MOST imp
 
 --> WHEN U DONT KNOW THE ANSWER in interview never say** idk**
-- 1.i didnot get chance to work on that but i know a
-- 2."""          opportunity
-- 3. actively get oopotunity but i have basic knowledge on about it
+- i didnot get chance to work on that but i know a
+- I didnot get opportunity to work on that 
+- I didnot actively get oopotunity but i have basic knowledge on about it
      
 --> why should i hire u?
      
